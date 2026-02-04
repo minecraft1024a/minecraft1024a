@@ -33,7 +33,7 @@ A passionate student 👨‍🎓 building intelligent AI systems 🤖
 MoFox-Bot 的 Web 管理控制台，具有实时监控、插件管理、自动更新等功能。  
 Web management console for MoFox-Bot with monitoring, plugin management, and auto-updates.
 
-### 🤖 [MoFox-Core (MoFox_Bot)](https://github.com/MoFox-Studio/MoFox_Core)
+### 🤖 [MoFox-Core (MoFox_Bot)](https://github.com/MoFox-Studio/MoFox-Core)
 基于 MaiCore 的 AI 聊天机器人，支持强大的插件系统和多平台。  
 AI chatbot based on MaiCore framework with powerful plugins and multi-platform support.
 
